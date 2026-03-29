@@ -1,6 +1,6 @@
-# 🎲 BraitoBet - Social Casino Platform
+# 🎲 BraitoApp - Social Casino Platform
 
-Bem-vindo ao repositório oficial da **BraitoBet**! 👋
+Bem-vindo ao repositório oficial da **BraitoApp**! 👋
 
 Este é o nosso monorepo que contém todo o código-fonte da nossa plataforma de minigames focada em entretenimento (estilo Ludijogos). A economia da plataforma é baseada em **Braitocoins** (moeda estritamente virtual).
 
@@ -30,7 +30,7 @@ O nosso projeto está dividido em três secções principais para facilitar a pa
 
 ## 🚀 Como Começar (Setup Local)
 
-Para começares a contribuir para a BraitoBet, garante que tens o teu ambiente preparado.
+Para começares a contribuir para a BraitoApp, garante que tens o teu ambiente preparado.
 
 ### Pré-requisitos
 
@@ -85,4 +85,4 @@ Tratamos a nossa economia virtual com o mesmo rigor que um sistema financeiro re
 
 ---
 
-*BraitoBet — Entretenimento Seguro e Divertido.* 🚀
+*BraitoApp — Entretenimento Seguro e Divertido.* 🚀
